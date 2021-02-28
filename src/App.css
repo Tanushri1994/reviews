@@ -1,0 +1,17 @@
+.quote{  
+  position: absolute;
+  top: -1rem;
+  left: 0.1rem;
+}
+
+.cardcustom{
+  width: 40vw;
+  margin: auto;
+  
+}
+
+.random{
+  border-color: transparent;
+  color:blue;
+   
+}
